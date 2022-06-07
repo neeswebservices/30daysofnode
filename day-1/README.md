@@ -18,3 +18,5 @@
 - organize your code
 - modularity
 - resizibality and binding in size
+- it caches the code
+- there is extra extension for mjs for modulejavascriptfiles

@@ -1,0 +1,14 @@
+{
+  "name": "day-2",
+  "version": "1.0.0",
+  "description": "- how to build npm packages\r - what is different between packages and modules\r - how to install npm packages\r - how to use npm packages\r - what is package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nees",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
